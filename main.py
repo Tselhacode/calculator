@@ -44,27 +44,4 @@ def calculate():
 
 calculate()  
   
-  
-
-
-
  
-# def calculate(first_num,operation,next_num):
-#   if operation == '+':
-#     result = add(first_num,next_num)
-#     sum = f"{first_num}{operation}{next_num}={result}"
-#     return sum
-#   yes_no = input(f"Type 'y' to continue calculating with {result}, or type 'n' to start a new calculation")
-
-# calculation_done = False
-# while not calculation_done:
-#   if yes_no == 'y':
-#     operation_pick = input("Pick an operation:")
-#     next_num = int(input("What's the next number?:"))
-#     first_num = f"{first_num} {operation} {nex_num}"
-     
-#     yes_no = input(f"Type 'y' to continue calculating with {result}, or type 'n' to start a new calculation")
-#   else:
-#     calculation_done = True
-      
-# calculate(first_num=first_number,operation=operation_pick,next_num=nextnum_pick)
